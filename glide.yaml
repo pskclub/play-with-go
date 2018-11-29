@@ -1,0 +1,4 @@
+package: github.com/pskclub/play-with-go
+import:
+- package: github.com/labstack/echo
+  version: ^3.3.8
